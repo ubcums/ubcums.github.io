@@ -50,10 +50,10 @@ body {
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -660,13 +660,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -2810,6 +2810,27 @@ body {
 .cid-rws2rHSxSb .nav-link:hover,
 .cid-rws2rHSxSb .dropdown-item:hover {
   color: #cccccc !important;
+}
+.cid-rwwGkB4r0o {
+  padding-top: 105px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rwwGkB4r0o .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rwwMqftoXd {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rwwMqftoXd .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rwwNmkrBpC {
+  padding-top: 0px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
 }
 .cid-rwvFvDLt1J {
   padding-top: 75px;
