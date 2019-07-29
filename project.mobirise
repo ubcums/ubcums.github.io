@@ -54,7 +54,7 @@
   "pages": {
     "faq.html": {
       "settings": {
-        "meta_descr": "Freqently asked questions",
+        "meta_descr": "Freqently asked questions about the UMS.",
         "title": "FAQ",
         "order": 2
       },
@@ -671,7 +671,7 @@
     },
     "exampacks.html": {
       "settings": {
-        "meta_descr": "Exam Packages",
+        "meta_descr": "The UBC UMS offers exam packs for a variety of first, second and third year courses. The packs include detailed solutions for a number of past finals.",
         "title": "Exam Packs",
         "order": 1
       },
@@ -1417,8 +1417,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "UMS UBC",
+        "meta_descr": "The UBC Undergraduate Mathematics Society (UMS) is a social club for math students. The UMS hosts social events, offers a lounge, and sells exam packs.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2031,7 +2031,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Get in touch through Facebook, Email, or by visiting us at MATX 1119.",
         "title": "Contact",
         "order": 4
       },
