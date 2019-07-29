@@ -54,7 +54,7 @@
   "pages": {
     "faq.html": {
       "settings": {
-        "meta_descr": "Freqently asked questions about the UMS.",
+        "meta_descr": "Freqently asked questions about The UMS.",
         "title": "FAQ",
         "order": 2
       },
@@ -671,7 +671,7 @@
     },
     "exampacks.html": {
       "settings": {
-        "meta_descr": "The UBC UMS offers exam packs for a variety of first, second and third year courses. The packs include detailed solutions for a number of past finals.",
+        "meta_descr": "The UMS offers exam packs for a variety of first, second and third year courses. The packs include detailed solutions for a number of past finals.",
         "title": "Exam Packs",
         "order": 1
       },
